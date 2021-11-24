@@ -1,0 +1,22 @@
+header{
+    display: block;
+    width: 100%;
+    height: 150px;
+    background-color: blueviolet;
+    padding-top: 1px;
+}
+
+header h1{
+    display: block;
+    text-align: center;
+    font-size: xx-large;
+    color: aliceblue;
+    margin-top: 50px;
+}
+
+main{
+    display: block;
+    height: 700px;
+    width: 100%;
+    background-color: rgb(111, 0, 255);
+}
